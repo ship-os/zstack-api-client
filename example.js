@@ -1,8 +1,3 @@
-# zstack-api-client
-
-Example:
-
-```js
 import ZStackAPI from './zstack'
 import * as apiErrors from './error-types'
 
@@ -37,5 +32,3 @@ zstack.auth.logInByAccount({
       console.error('Failed to login:', err)
     }
   })
-```
-
