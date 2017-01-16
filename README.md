@@ -8,6 +8,8 @@ npm install
 npm run build
 # start example.js
 npm run start
+# Or run via node (after building)
+node lib/example.js
 ```
 
 
