@@ -1,6 +1,18 @@
 # zstack-api-client
 
-Example:
+## Development
+
+```sh
+npm install
+# build (from src to lib)
+npm run build
+# start example.js
+npm run start
+```
+
+
+
+## Example
 
 ```js
 import ZStackAPI from './zstack'
