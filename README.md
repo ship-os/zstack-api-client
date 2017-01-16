@@ -2,6 +2,8 @@
 
 ## Development
 
+### Getting Start
+
 ```sh
 npm install
 # build (from src to lib)
@@ -12,7 +14,12 @@ npm run start
 node lib/example.js
 ```
 
+### Compile API Header
 
+```sh
+cd zstack
+tsc
+```
 
 ## Example
 
