@@ -17,7 +17,7 @@ node lib/example.js
 ### Compile API Header
 
 ```sh
-cd zstack
+cd src/zstack
 tsc
 ```
 
